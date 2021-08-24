@@ -38,5 +38,6 @@ Note: From the above comparison, we can observe that K Nearest neighbors gets th
 - Execute the command: python app.py
 - Open http://127.0.0.1:5000/ in your browser.
 
-## SCREENSHOT
+## 06. SCREENSHOT
 
+![01](https://user-images.githubusercontent.com/40186859/130610375-dbe4be70-7ed5-435f-893d-6b939e054765.png)
