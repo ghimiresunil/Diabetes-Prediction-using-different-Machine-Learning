@@ -10,7 +10,7 @@ The objective of the project is to predict whether or not a patient has diabetes
 
 Dataset url : https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
-## FEATURE OBSERVATION
+## 03. FEATURE OBSERVATION
 
 - There are a total of 768 records and 9 features in the dataset.
 - Each feature can be either of integer or float dataype.
@@ -18,7 +18,7 @@ Dataset url : https://www.kaggle.com/uciml/pima-indians-diabetes-database
 - There are zero NaN values in the dataset.
 - In the outcome column, 1 represents diabetes positive and 0 represents diabetes negative.
 
-## RESULT ON TESTING OF DIFFERENT MACHINE LEARNING MODEL
+## 04. RESULT ON TESTING OF DIFFERENT MACHINE LEARNING MODEL
 
 - **Logistic Regression**: 72.07792207792207
 - **K Nearest neighbors**: 78.57142857142857
@@ -28,4 +28,15 @@ Dataset url : https://www.kaggle.com/uciml/pima-indians-diabetes-database
 - **Random Forest**: 75.97402597402598
 
 Note: From the above comparison, we can observe that K Nearest neighbors gets the highest accuracy of 78.57 %
+
+## 05. INSTALLATION
+
+- Clone this repository and unzip it.
+- After downloading, cd into the flask directory.
+- Begin a new virtual environment with Python 3 and activate it.
+- Install the required packages using pip install -r requirements.txt
+- Execute the command: python app.py
+- Open http://127.0.0.1:5000/ in your browser.
+
+## SCREENSHOT
 
